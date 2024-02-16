@@ -8,10 +8,29 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    width: 20%;
+    width: 100%;
     height: 100%;
 }
-.botao{
-    background-position: center;
-    
+.cabecalho{
+    text-align: center;
+    border-style: groove;
+    border-color: red;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+}
+ul{
+    text-align: left;
+    font-size: 30px;
+    color: red;
+}
+div{ 
+    text-align: center;
+}
+.po{
+    font-size: 30px;
+    color: red;
+    text-align: center;
 }
